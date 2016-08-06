@@ -1,0 +1,30 @@
+_repo: The-Warriors_10004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, Anna Robertson Brown
+    alias: Brown, Anna Robertson
+    birthdate: 1864
+    deathdate: 1948
+    gutenberg_agent_id: '3262'
+    url: http://www.gutenberg.org/2009/agents/3262
+description: 'Chords of awakening: the higher conquest.--Prelude: the call of Jesus.--Processional:
+  the church of God.--The world-march: of kings; of prelates and evangelists; of sages;
+  of traders; of workers.'
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christianity'
+- GITenberg
+tableOfContents: 'Chords of awakening: the higher conquest -- Prelude: the call of
+  Jesus -- Processional: the church of God -- The world-march: of kings; of prelates
+  and evangelists; of sages; of traders; of workers.'
+title: The Warriors
+url: http://www.gutenberg.org/ebooks/10004
