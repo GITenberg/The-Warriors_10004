@@ -1,5 +1,8 @@
 _repo: The-Warriors_10004
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lindsay, Anna Robertson Brown
@@ -11,6 +14,8 @@ creator:
 description: 'Chords of awakening: the higher conquest.--Prelude: the call of Jesus.--Processional:
   the church of God.--The world-march: of kings; of prelates and evangelists; of sages;
   of traders; of workers.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10004#The-Warriors
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
